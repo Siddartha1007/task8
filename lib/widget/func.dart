@@ -23,7 +23,7 @@ class Func extends StatelessWidget {
         borderRadius: BorderRadius.circular(8.0),
       ),
       child: Container(
-        margin: EdgeInsets.only(left: 10),
+        margin: EdgeInsets.only(left: 15),
         decoration: BoxDecoration(color: Colors.white),
         child: Column(
           // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
